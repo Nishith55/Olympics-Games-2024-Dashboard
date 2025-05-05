@@ -20,7 +20,6 @@ Technologies Used
 • Python: For data extraction and preprocessing.
 • Kaggle: As the data source for the Olympic datasets.
 • Power BI: For creating interactive data visualizations.
-• Figma: For designing the dashboard interface.
 • DAX: Used in Power BI for creating dynamic and complex calculations.
 • Power Query: For data transformation and preparation inside Power BI.
 ![image](https://github.com/user-attachments/assets/2458c3d5-d699-42cb-94af-9869bb1dcfc0)
