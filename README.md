@@ -16,6 +16,8 @@ Welcome to the **Paris 2024 Olympic Summer Games Dashboard** project! This dashb
 - Custom visuals, slicers, DAX measures, and Power Query transformations bring the data to life in an engaging way.
 
 ---
+![image](https://github.com/user-attachments/assets/41b717cb-47b4-485a-9342-f3bea259f009)
+
 
 ## 🚀 Features
 
@@ -45,6 +47,9 @@ Welcome to the **Paris 2024 Olympic Summer Games Dashboard** project! This dashb
 - Explore **historical trends**, **medal projections**, and **event analytics**
 
 ---
+
+![image](https://github.com/user-attachments/assets/7f6c4796-319e-4532-82af-146310cf2c2d)
+
 
 ## 🛠️ Technologies Used
 
