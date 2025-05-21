@@ -68,5 +68,3 @@ Paris2024-Olympic-Dashboard/
 ├── dashboard/              # Power BI (.pbix) file
 ├── assets/                 # Images or GIFs for README/docs
 ├── README.md               # This file
-
-![image](https://github.com/user-attachments/assets/2458c3d5-d699-42cb-94af-9869bb1dcfc0)
