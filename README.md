@@ -1,25 +1,72 @@
-Paris 2024 Olympic Summer Games Dashboard 🏅
-Overview
+# 🏅 Paris 2024 Olympic Summer Games Dashboard
 
-Welcome to the Paris 2024 Olympic Summer Games Dashboard project! This project provides interactive visualizations and insights into Olympic data, including medal counts, athlete performances, event schedules, and more, all displayed on a beautifully designed Power BI dashboard.
+Welcome to the **Paris 2024 Olympic Summer Games Dashboard** project! This dashboard offers **interactive visualizations** and actionable insights into Olympic data — from **medal counts** to **athlete performances**, **event schedules**, and more — beautifully presented through **Power BI**.
 
-Project Features
+---
 
-• Data Extraction with Python: Python scripts were used to extract, clean, and prepare the data from the Kaggle Paris 2024 Olympic Summer Games Dataset.
-• Interactive Power BI Dashboard: The dashboard provides rich visualizations, including medal counts, country comparisons, and athlete statistics.
-• Advanced Power BI Features: Utilized Power Query for data transformation, DAX for calculations, and custom visuals to present data in engaging ways. Key Learning Objectives
+## 📊 Project Highlights
 
-Data Processing: o Extracted, cleaned, and prepared the data using Python.
-o Automating updates for real-time data refresh in the Power BI dashboard.
+✨ **Interactive Dashboard**  
+- Track **real-time medal tallies**, explore **country-wise performance**, and dive into **athlete stats** across various Olympic events.
 
-Interactive Visualizations:
-o Built interactive dashboards tracking Olympic data, allowing users to explore the data from different angles.
-o Visualized historical comparisons of countries and athletes in the Olympic Games.
+🔧 **Automated Data Pipeline**  
+- Python scripts extract and prepare data from Kaggle, readying it for smooth ingestion into Power BI.
 
-Technologies Used
-• Python: For data extraction and preprocessing.
-• Kaggle: As the data source for the Olympic datasets.
-• Power BI: For creating interactive data visualizations.
-• DAX: Used in Power BI for creating dynamic and complex calculations.
-• Power Query: For data transformation and preparation inside Power BI.
+🧠 **Smart Visuals & Metrics**  
+- Custom visuals, slicers, DAX measures, and Power Query transformations bring the data to life in an engaging way.
+
+---
+
+## 🚀 Features
+
+| Component                    | Description                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------|
+| 🐍 Python Scripting         | Automated data extraction and preprocessing from Kaggle datasets            |
+| 📈 Power BI Dashboard       | Fully interactive dashboard with filters, drill-downs, and custom visuals   |
+| 🧮 DAX Calculations         | Advanced calculated measures and KPIs to enhance insights                   |
+| 🔄 Power Query              | Seamless data transformation and refresh pipeline                           |
+| 🌍 Country & Athlete Stats | Medal tracking, country comparisons, athlete achievements, event-wise data  |
+
+---
+
+## 🎓 Learning Objectives
+
+### 🧼 Data Processing
+- Extract, clean, and transform Olympic data using Python
+- Prepare clean datasets optimized for visual analytics
+- Automate data refreshes for real-time Power BI updates
+
+### 🖼️ Interactive Visualizations
+- Design dashboards that allow users to slice and dice data by:
+  - 🌐 Country
+  - 🏃 Athlete
+  - 🥇 Sport & Event
+  - 📅 Year
+- Explore **historical trends**, **medal projections**, and **event analytics**
+
+---
+
+## 🛠️ Technologies Used
+
+| Tool/Tech       | Role                                                                 |
+|-----------------|----------------------------------------------------------------------|
+| 🐍 Python        | Data extraction & preprocessing                                      |
+| 📦 Kaggle        | Olympic dataset source                                               |
+| 📊 Power BI      | Interactive dashboard development                                    |
+| 🧮 DAX           | Custom calculations and metrics inside Power BI                     |
+| 🔄 Power Query   | ETL operations within the Power BI ecosystem                         |
+
+---
+
+## 📂 Folder Structure
+
+```bash
+Paris2024-Olympic-Dashboard/
+│
+├── data/                   # Raw and processed data files
+├── scripts/                # Python scripts for data preprocessing
+├── dashboard/              # Power BI (.pbix) file
+├── assets/                 # Images or GIFs for README/docs
+├── README.md               # This file
+
 ![image](https://github.com/user-attachments/assets/2458c3d5-d699-42cb-94af-9869bb1dcfc0)
